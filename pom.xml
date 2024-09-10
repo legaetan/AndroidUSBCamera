@@ -1,0 +1,8 @@
+<distributionManagement>
+   <repository>
+     <id>github</id>
+     <name>AndroidUSBCamera Apache Maven Packages</name>
+     <url>https://maven.pkg.github.com/legaetan/AndroidUSBCamera</url>
+   </repository>
+</distributionManagement>
+
